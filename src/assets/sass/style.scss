@@ -13,8 +13,9 @@ $tabs-boxed-link-hover-background-color: #c5f4e0;
 
 // cards
 $card-header-background-color: #361d2e;
-$card-content-background-color: #b8b8ff;
+$card-content-background-color: #c9c9ff;
 $card-header-color: #ffffff;
+$card-footer-background-color: #dadaff;
 
 // boxes
 $box-background-color: #b8b8ff;
@@ -23,6 +24,11 @@ $box-background-color: #b8b8ff;
 $footer-background-color: #33658a;
 $footer-color: #ffffff;
 $footer-padding: 1rem;
+
+// buttons
+$button-background-color: #361d2e;
+$button-color: #ffffff;
+$button-hover-color: #cccccc;
 
 @import "../../../node_modules/bulma/bulma.sass";
 
@@ -73,7 +79,7 @@ main {
     letter-spacing: 0.1em;
     background: var(--primary);
     color: var(--dark);
-    font-family: 'Poiret One', cursive;
+    // font-family: 'Poiret One', cursive;
   }
   
   h1,
