@@ -1,7 +1,7 @@
 import React from 'react';
 import website_pic1 from "../../assets/images/budget-tracker.png";
 import website_pic2 from "../../assets/images/Gift-fairy.PNG";
-import website_pic3 from "../../assets/images/stock-manager.PNG";
+// import website_pic3 from "../../assets/images/stock-manager.PNG";
 import website_pic4 from "../../assets/images/weather-dashboard.PNG";
 import program_pic1 from "../../assets/images/Minesweeper.png";
 import program_pic2 from "../../assets/images/sudoku-solve.PNG";
@@ -45,7 +45,7 @@ function Portfolio()
                             </div>
                         </div>
                     </div>
-                    <div className="column">
+                    {/* <div className="column">
                         <div className="card" style={{width: "100%"}}>
                             <div className="card-header">
                                 <p style={{width: "100%"}}>Stock Manager</p>
@@ -59,7 +59,7 @@ function Portfolio()
                                 <p style={{width: "100%"}}>Javascript, Bulma, API, Github Pages</p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="column">
                         <div className="card" style={{width: "100%"}}>
                             <div className="card-header">
