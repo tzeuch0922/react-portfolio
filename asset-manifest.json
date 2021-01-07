@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.366fd5fa.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f7d9363d.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f7d9363d.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.b53da8eb.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.b53da8eb.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6c7411da.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6c7411da.js.map",
     "static/js/2.1e7edc2a.chunk.js": "/react-portfolio/static/js/2.1e7edc2a.chunk.js",
@@ -18,7 +18,6 @@
     "static/media/budget-tracker.31531660.png": "/react-portfolio/static/media/budget-tracker.31531660.png",
     "static/media/employee-tracker.30e40689.PNG": "/react-portfolio/static/media/employee-tracker.30e40689.PNG",
     "static/media/resume-summer-2020.14e93b61.pdf": "/react-portfolio/static/media/resume-summer-2020.14e93b61.pdf",
-    "static/media/stock-manager.04b8d528.PNG": "/react-portfolio/static/media/stock-manager.04b8d528.PNG",
     "static/media/sudoku-solve.53e00a01.PNG": "/react-portfolio/static/media/sudoku-solve.53e00a01.PNG",
     "static/media/team-profile-generator.b9126c88.PNG": "/react-portfolio/static/media/team-profile-generator.b9126c88.PNG",
     "static/media/weather-dashboard.9bcce825.PNG": "/react-portfolio/static/media/weather-dashboard.9bcce825.PNG"
@@ -27,6 +26,6 @@
     "static/js/runtime-main.6c7411da.js",
     "static/js/2.1e7edc2a.chunk.js",
     "static/css/main.366fd5fa.chunk.css",
-    "static/js/main.f7d9363d.chunk.js"
+    "static/js/main.b53da8eb.chunk.js"
   ]
 }
