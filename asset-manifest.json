@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.366fd5fa.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b53da8eb.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b53da8eb.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.64bb0671.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.64bb0671.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6c7411da.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6c7411da.js.map",
     "static/js/2.1e7edc2a.chunk.js": "/react-portfolio/static/js/2.1e7edc2a.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/Minesweeper.52e97a7c.png": "/react-portfolio/static/media/Minesweeper.52e97a7c.png",
     "static/media/budget-tracker.31531660.png": "/react-portfolio/static/media/budget-tracker.31531660.png",
     "static/media/employee-tracker.30e40689.PNG": "/react-portfolio/static/media/employee-tracker.30e40689.PNG",
-    "static/media/resume-summer-2020.14e93b61.pdf": "/react-portfolio/static/media/resume-summer-2020.14e93b61.pdf",
+    "static/media/resume-winter-2020.37c34e19.pdf": "/react-portfolio/static/media/resume-winter-2020.37c34e19.pdf",
     "static/media/sudoku-solve.53e00a01.PNG": "/react-portfolio/static/media/sudoku-solve.53e00a01.PNG",
     "static/media/team-profile-generator.b9126c88.PNG": "/react-portfolio/static/media/team-profile-generator.b9126c88.PNG",
     "static/media/weather-dashboard.9bcce825.PNG": "/react-portfolio/static/media/weather-dashboard.9bcce825.PNG"
@@ -26,6 +26,6 @@
     "static/js/runtime-main.6c7411da.js",
     "static/js/2.1e7edc2a.chunk.js",
     "static/css/main.366fd5fa.chunk.css",
-    "static/js/main.b53da8eb.chunk.js"
+    "static/js/main.64bb0671.chunk.js"
   ]
 }
