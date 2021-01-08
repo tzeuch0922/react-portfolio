@@ -6,7 +6,7 @@ function Resume()
     return (
         <>
             <h1 className="title">Full Resume</h1>
-            <a href={resume} className="button block" download="resume-summer-2020.pdf">Download</a>
+            <a href={resume} className="button block" download="resume-winter-2020.pdf">Download</a>
             <h1 className="title">Overview</h1>
             <div className="columns block" style={{width: "100%"}}>
                 <div className="column">
