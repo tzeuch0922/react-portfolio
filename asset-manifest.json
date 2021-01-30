@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.366fd5fa.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.832ea87e.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.832ea87e.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.9a2a52c4.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9a2a52c4.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6c7411da.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6c7411da.js.map",
     "static/js/2.1e7edc2a.chunk.js": "/react-portfolio/static/js/2.1e7edc2a.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.366fd5fa.chunk.css.map": "/react-portfolio/static/css/main.366fd5fa.chunk.css.map",
     "static/js/2.1e7edc2a.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1e7edc2a.chunk.js.LICENSE.txt",
     "static/media/Business-Picture-Crop.3ec98a37.jpg": "/react-portfolio/static/media/Business-Picture-Crop.3ec98a37.jpg",
+    "static/media/Fair-Streem.a2d60a02.PNG": "/react-portfolio/static/media/Fair-Streem.a2d60a02.PNG",
     "static/media/Gift-fairy.83c34be7.PNG": "/react-portfolio/static/media/Gift-fairy.83c34be7.PNG",
     "static/media/Minesweeper.52e97a7c.png": "/react-portfolio/static/media/Minesweeper.52e97a7c.png",
     "static/media/budget-tracker.31531660.png": "/react-portfolio/static/media/budget-tracker.31531660.png",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.6c7411da.js",
     "static/js/2.1e7edc2a.chunk.js",
     "static/css/main.366fd5fa.chunk.css",
-    "static/js/main.832ea87e.chunk.js"
+    "static/js/main.9a2a52c4.chunk.js"
   ]
 }
